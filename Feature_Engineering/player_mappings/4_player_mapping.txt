@@ -1,0 +1,33 @@
+Match ID: 4
+
+Home Players Mapping:
+273 -> home_1
+36 -> home_2
+452 -> home_3
+597 -> home_4
+616 -> home_5
+688 -> home_6
+710 -> home_7
+797 -> home_8
+8 -> home_9
+827 -> home_10
+933 -> home_11
+962 -> home_12
+966 -> home_13
+990 -> home_14
+
+Away Players Mapping:
+148 -> away_1
+20 -> away_2
+205 -> away_3
+342 -> away_4
+465 -> away_5
+521 -> away_6
+543 -> away_7
+6 -> away_8
+672 -> away_9
+682 -> away_10
+728 -> away_11
+73 -> away_12
+898 -> away_13
+961 -> away_14
