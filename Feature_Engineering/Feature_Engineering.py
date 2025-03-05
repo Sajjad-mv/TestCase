@@ -102,7 +102,7 @@ def standardize_player_ids(df, match_id, output_folder="player_mappings"):
         for original, new in away_mapping.items():
             f.write(f"{original} -> away_{new}\n")
 
-    print(f"✅ Saved player ID mapping for {match_id} at {mapping_file}")
+    print(f" Saved player ID mapping for {match_id} at {mapping_file}")
 
     new_columns = {}
 
